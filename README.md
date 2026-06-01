@@ -7,3 +7,14 @@ An interactive E-Commerce Sales Analysis Dashboard built using Microsoft Excel t
 Here is a link of a live Dashboard you can see 
 
 https://1drv.ms/x/c/0c80453460b60f80/IQDORZzKvo3GR7XY3cI2bZwTAY-WLvYk_O4FCYOfM8y7XBY?e=cjBr1z
+
+TOOLS USED In this Dashboard
+
+Microsoft Excel
+Pivot Tables
+Pivot Charts
+Slicers
+Map Charts
+Dashboard Design & Data Visualization
+
+
