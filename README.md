@@ -10,11 +10,11 @@ https://1drv.ms/x/c/0c80453460b60f80/IQDORZzKvo3GR7XY3cI2bZwTAY-WLvYk_O4FCYOfM8y
 
 TOOLS USED In this Dashboard
 
-Microsoft Excel
-Pivot Tables
-Pivot Charts
-Slicers
-Map Charts
-Dashboard Design & Data Visualization
+Microsoft Excel       
+Pivot Tables        
+Pivot Charts        
+Slicers          
+Map Charts         
+Dashboard Design & Data Visualization           
 
 
